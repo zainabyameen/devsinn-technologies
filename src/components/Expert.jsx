@@ -39,7 +39,7 @@ export const Expert = () => {
                             <img src="/images/team2.jpg" alt="Ahsan Khan" />
                             <div className="team-info">
                                 <h3>Ahsan Khan</h3>
-                                <p>Flutter Developer</p>
+                                <p>Flutter Developer</p> 
                             </div>
                         </div>
 
